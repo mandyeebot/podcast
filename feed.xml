@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta PM Interview Prep</title>
+    <description>3-hour deep dive into Meta's PM interview process. Two coaches walk through 26 questions with perfect answers across all 5 interview rounds: Product Sense, Analytical Thinking, Project Retrospective, XFN Partnership, and Operating at Meta. Built for IC7 candidates.</description>
+    <language>en-us</language>
+    <link>https://mandyeebot.github.io/podcast/</link>
+    <atom:link href="https://mandyeebot.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Amanda Bradford</itunes:author>
+    <itunes:owner>
+      <itunes:name>Amanda Bradford</itunes:name>
+      <itunes:email>amanda.bradford@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://mandyeebot.github.io/podcast/cover.png"/>
+    <itunes:category text="Business">
+      <itunes:category text="Careers"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Full Episode: Meta PM Interview Prep (All 5 Rounds)</title>
+      <description>Complete 3-hour walkthrough of Meta's PM interview. Covers both IC7 roles (Pro Tools Subscription + SMB Monetization), 10 Product Sense questions, 4 Execution questions, 4 Project Retrospective questions, 4 XFN Partnership questions, and 4 Operating at Meta questions. Every question has 2 different perfect answers. Frameworks: BUS, GAME, STAR, DIGS, RICE.</description>
+      <enclosure url="https://drive.google.com/uc?export=download&id=11aa0IGbvQxpbHOPNyEVqJ-_HgJjyS89A" length="135372113" type="audio/mpeg"/>
+      <itunes:duration>11281</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <pubDate>Sat, 21 Feb 2026 22:00:00 -0600</pubDate>
+      <guid>meta-pm-podcast-full-v0</guid>
+    </item>
+
+    <item>
+      <title>EP 1: Product Sense — Questions 1-5 (Intro + Job Context)</title>
+      <description>Deep dive on both IC7 roles (Varun's Pro Tools Subscription + Nikhil's SMB Monetization), then 5 Product Sense questions: Design a professional tools subscription, Improve Meta Verified, Design a fitness app for Meta, Next big thing for Instagram, Monetize WhatsApp.</description>
+      <enclosure url="https://mandyeebot.github.io/podcast/ep1-product-sense-pt1.mp3" length="9633792" type="audio/mpeg"/>
+      <itunes:duration>2401</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <pubDate>Sat, 21 Feb 2026 22:00:00 -0600</pubDate>
+      <guid>meta-pm-ep1-product-sense-pt1</guid>
+    </item>
+
+    <item>
+      <title>EP 2: Product Sense — Questions 6-10 (+ AI Product Sense)</title>
+      <description>Creator monetization for Instagram, Meta AI chat metrics, AI meeting attendance problem, Improve Instagram Shopping, Build for small business success. Includes both AI Product Sense questions.</description>
+      <enclosure url="https://mandyeebot.github.io/podcast/ep2-product-sense-pt2.mp3" length="11534336" type="audio/mpeg"/>
+      <itunes:duration>2665</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <pubDate>Sat, 21 Feb 2026 22:00:00 -0600</pubDate>
+      <guid>meta-pm-ep2-product-sense-pt2</guid>
+    </item>
+
+    <item>
+      <title>EP 3: Execution + Project Retrospective</title>
+      <description>Subscription metrics, debugging engagement drops, prioritization, plus behavioral answers with The League as the anchor story. GAME and STAR/DIGS frameworks.</description>
+      <enclosure url="https://mandyeebot.github.io/podcast/ep3-execution-retro.mp3" length="11534336" type="audio/mpeg"/>
+      <itunes:duration>2736</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <pubDate>Sat, 21 Feb 2026 22:00:00 -0600</pubDate>
+      <guid>meta-pm-ep3-execution-retro</guid>
+    </item>
+
+    <item>
+      <title>EP 4: XFN Partnership + Operating at Meta + Outro</title>
+      <description>Influence without authority, conflict resolution, stakeholder navigation, Why Meta, and the final framework recap with confidence boost.</description>
+      <enclosure url="https://mandyeebot.github.io/podcast/ep4-xfn-operating.mp3" length="14680064" type="audio/mpeg"/>
+      <itunes:duration>3479</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <pubDate>Sat, 21 Feb 2026 22:00:00 -0600</pubDate>
+      <guid>meta-pm-ep4-xfn-operating</guid>
+    </item>
+
+  </channel>
+</rss>
