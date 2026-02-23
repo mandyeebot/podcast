@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meta PM Interview Prep</title>
-    <description>3-hour deep dive into Meta's PM interview process. 26 questions with perfect answers across all 5 interview rounds.</description>
+    <description>L7-caliber Meta PM interview prep. Product Sense and Execution deep dives with dual A/B answers for every question.</description>
     <language>en-us</language>
     <link>https://mandyeebot.github.io/podcast/</link>
     <atom:link href="https://mandyeebot.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
@@ -19,7 +19,18 @@
     <itunes:type>episodic</itunes:type>
 
     <item>
-      <title>Meta PM Interview Prep — Full Episode (All 5 Rounds)</title>
+      <title>EP2: Product Sense Master — 17 L7 Questions (4hr 16min)</title>
+      <description>The definitive Meta PM Product Sense episode. 17 most-asked questions with dual A/B L7-caliber answers. Covers volunteering, healthcare, FB Groups, WhatsApp, fitness, travel, education, Gen Z, TikTok competition, ad-free Instagram, AI product sense, and more. Every answer demonstrates BUS, CIRCLES, KANO, 10x, 5Es, and other frameworks applied naturally.</description>
+      <enclosure url="https://github.com/mandyeebot/podcast/releases/download/v2.0/MetaPM_ProductSense.mp3" length="61603840" type="audio/mpeg"/>
+      <itunes:duration>4:16:01</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <pubDate>Sun, 23 Feb 2026 05:00:00 -0600</pubDate>
+      <guid>meta-pm-product-sense-master-v2</guid>
+    </item>
+
+    <item>
+      <title>EP1: Meta PM Interview Prep — Full Episode (All 5 Rounds)</title>
       <description>Complete 3-hour walkthrough of Meta's PM interview. Covers both IC7 roles, 26 questions with 52 model answers. Product Sense, Execution, Project Retrospective, XFN Partnership, and Operating at Meta.</description>
       <enclosure url="https://kxyqdzkoyuzszcyfvpee.supabase.co/storage/v1/object/public/podcast/meta-pm-podcast-full.mp3" length="135372113" type="audio/mpeg"/>
       <itunes:duration>3:08:01</itunes:duration>
